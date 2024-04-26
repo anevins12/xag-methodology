@@ -9,6 +9,7 @@ Tips on how to test Xbox Accessibility Guidelines V3.2 for PC
 * Modifying text size
 * Modifying text style
 * Modifying text spacing
+* Modifying text case and alignment
 * modifying text colour
 
 ### Minimum text size
@@ -40,4 +41,6 @@ This is only applicable to blocks of text that have more than 2 lines:
   - Letter spacing: 0.12 larger than font size.
   - Word spacing: 0.16 larger than font size.
 
-
+### Modifying text case and alignment
+1. If text is presented in lower case or upper case, is there an option to change to normal sentence capitalisation?
+2. Text is aligned according to the language. If a left-to-right language is used the text is aligned left, vice versa.
