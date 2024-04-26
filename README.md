@@ -7,14 +7,17 @@ Tips on how to test Xbox Accessibility Guidelines V3.2 for PC
 
 * Minimum text size
 * Modifying text size
+* Modifying text style
 * Modifying text spacing
 * modifying text colour
-* Modifying textstyle
 
 ### Minimum text size
-Font size should equal or exceed:
-* 18 px at 1080p
-* 36 px at 4K
+1. Screenshot the game and paste into your preferred image editing tool (MS Paint will do.)
+2. Measure the font size from "ascender height" to "descender height".
+3. When text includes an outline, only consider that as part of the ascender/descender height when it has a 2:1 contrast ratio.
+4. Ensure the font size equals or exceeds: 18px at 1080p or 36px at 4K.
 
 ### Modifying text size
 The game must provide options to modify the text size to 200%. There is no other mechanism of modifying text size, as Windows or XBOX settings do not carry forward into the game.
+
+### Modifying text style
