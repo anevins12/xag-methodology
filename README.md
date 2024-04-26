@@ -23,3 +23,9 @@ The game must provide options to modify the text size to 200%. There is no other
 1. Check the settings for an option to decrease and increase the text size.
 
 ### Modifying text style
+Check the settings:
+1. Is there at least one sans-seif typeface option?
+2. Is there an option to turn off stylised fonts?
+3. Does the font support the complete character set for all (supported) languages?
+
+
