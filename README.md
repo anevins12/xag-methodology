@@ -44,3 +44,8 @@ This is only applicable to blocks of text that have more than 2 lines:
 ### Modifying text case and alignment
 1. If text is presented in lower case or upper case, is there an option to change to normal sentence capitalisation?
 2. Text is aligned according to the language. If a left-to-right language is used the text is aligned left, vice versa.
+
+### Modifying text colour
+This is expanded in [Guideline 102]([url](https://learn.microsoft.com/en-us/gaming/accessibility/xbox-accessibility-guidelines/102)).
+Is there an option to modify the text colour along with background colour where applicable? 
+
