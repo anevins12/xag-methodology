@@ -20,4 +20,6 @@ Tips on how to test Xbox Accessibility Guidelines V3.2 for PC
 ### Modifying text size
 The game must provide options to modify the text size to 200%. There is no other mechanism of modifying text size, as Windows or XBOX settings do not carry forward into the game.
 
+1. Check the settings for an option to decrease and increase the text size.
+
 ### Modifying text style
