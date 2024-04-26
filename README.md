@@ -32,5 +32,12 @@ Check the settings:
 3. Does the font support the complete character set for all (supported) languages?
 
 ### Modifying text spacing
+This is only applicable to blocks of text that have more than 2 lines:
+1. Check if the text meets the minmimum spacing requirements:
+  - Line width: Does not exceed 80 characters.
+  - Line spacing: 1.5.
+  - Paragraph spacing: 2 times larger than line spacing.
+  - Letter spacing: 0.12 larger than font size.
+  - Word spacing: 0.16 larger than font size.
 
 
